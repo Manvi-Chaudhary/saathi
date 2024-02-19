@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAcVp6i6CKFY2OQHSgYuSNo-aQ3qOzpwJQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>921290435175</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.saathi.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>triveous-news-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>triveous-news-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:921290435175:ios:ed8b949433b9a3032bc2c2</string>
+</dict>
+</plist>

@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "921290435175",
+    "project_id": "triveous-news-app",
+    "storage_bucket": "triveous-news-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921290435175:android:223d5a33ca41165d2bc2c2",
+        "android_client_info": {
+          "package_name": "com.example.saathi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921290435175-mbcc4bulfp6qrne514b8f02p83is5kel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyp0NBHVsNjv8Ig5m-TpdXWhMZ7rOsnto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921290435175-mbcc4bulfp6qrne514b8f02p83is5kel.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "921290435175-9094h2dn5bss0j3o5idlto953aiic800.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.saathi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921290435175:android:90322dee618588a02bc2c2",
+        "android_client_info": {
+          "package_name": "com.example.triveous_news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921290435175-mbcc4bulfp6qrne514b8f02p83is5kel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyp0NBHVsNjv8Ig5m-TpdXWhMZ7rOsnto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921290435175-mbcc4bulfp6qrne514b8f02p83is5kel.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "921290435175-9094h2dn5bss0j3o5idlto953aiic800.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.saathi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
